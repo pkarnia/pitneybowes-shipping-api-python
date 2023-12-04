@@ -40,7 +40,7 @@ class TrackingAddress(object):
         'address3': 'str',
         'city': 'str',
         'state_or_province': 'str',
-        'postal_code': 'int',
+        'postal_code': 'str',
         'country': 'str'
     }
 
