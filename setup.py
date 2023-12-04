@@ -14,7 +14,7 @@
 from setuptools import setup, find_packages  # noqa: H301
 
 NAME = "PitneyBowesShippingAPI"
-VERSION = "1.0.2"
+VERSION = "1.0.3"
 # To install the library, run the following
 #
 # python setup.py install
@@ -37,6 +37,6 @@ setup(
     include_package_data=True,
     license="Apache 2.0",
     long_description="""\
-    Shipping API Sample.  # noqa: E501
+    Pitney Bowes Shipping API Package.  # noqa: E501
     """
 )
